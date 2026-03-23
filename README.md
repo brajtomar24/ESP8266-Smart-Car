@@ -34,7 +34,7 @@ Convert a normal RC car into a smart WiFi-controlled car using ESP8266 and DRV88
 ---
 
 ## 🔌 Circuit Diagram
-![Circuit Diagram](add-your-circuit-image-link-here)
+![Circuit Diagram](CircuitDiagram.png)
 
 ---
 
